@@ -3,3 +3,9 @@ node_modules
 *.log
 *.idea
 *.swp
+nyc_output
+coverage
+/underscore_to_es6.js
+/.brackets.json
+/.nyc_output/
+/_testy_es6.js
